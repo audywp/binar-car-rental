@@ -24,7 +24,7 @@
 Sometimes you may need to reset or clear the React Native packager's cache. To do so, you can pass the `--reset-cache` flag to the start script:
 
 ```
-yarn start -- --reset-cache
+yarn start --reset-cache
 ```
 
 ## License
